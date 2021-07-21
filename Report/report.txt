@@ -1,0 +1,25 @@
+Acknowledgements:
+
+Greatly Appreciations to the team who worked very hard to bring up This astonishing Website.Fully conscious to our constructive suggestions and 
+precious time that was offered during the upbringing of the website.We wouldnot have done such an astounding website if it wasnot for our togetherness.
+The team members are Mr Bongumusa Mbuli,Mr Zweli Sangweni,Ms Naham Dlamini and Mr Mpendulo Mkhonta.
+We would also like to extend our thanks to the school(Advanced School Of Information And Technology) for provision of needed resources and lastly special thanks
+goes to our lecturer Mr Zwane for his support throughout the project. 
+
+Project Synopsis:
+
+A car dealership is a business that sells new or used cars at the retail level,based on a delearship contract with an automaker or its sales subsidiary.Our website 
+aim to impress all people who comes across it since we offer the world best fancy and affordable cars.We offer brand new cars and used cars that are still good ,without
+any stretches and with low mileage.We mostly provide petrol fuel type cars .The cars we offer includes lexus ,mercedes,Golf 6 and GTI etc.Carvan offers better deals at 
+affordable prices.These deals aim to boost sales of certain models and encourage brand loyalty You are interested in any car ,you dont hesitate but just contact us .
+We have provided our phone numbers and emails aswell.
+
+
+Project Analysis:
+
+Car dealership rank among the businesses that can see their fortunes quickly altered based on shifting customer preferences,competing dealers and changes in the 
+economy.Standing out from the competition is critical,and dealerships need to be agile to respond to market changes.A cars true market value is calculated by a consumer-research group 
+or company such as website which is what our team has brought up.Shop for great deals on cars,Test drive from home and free Delivery.You can buy,sell or 
+trade-in your car entirely online,From comfort of your home.No haggle,no pressure.Use our guide to find this site that has great vehicle selection and pricing.We have 
+designed a well developed website for the Windows Platform using HTML5,CSS3,Javascript and Geolocation.The site works well in different browsers including Chrome,Internet
+Explorer,Firefox etc.
